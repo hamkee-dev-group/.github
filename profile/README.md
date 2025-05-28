@@ -2,7 +2,7 @@
 
 # HAMKEE GitHub Organization
 
-Welcome to the official GitHub organization for **HAMKEE LLC**\!
+Welcome to the official GitHub organization for **HAMKEE**\!
 
 Here at HAMKEE, we specialize in providing top-tier **Unix support**, **software development**, **virtualization and cloud services**, and **advisory** to businesses of all sizes. We're passionate about **Unix-based systems**, **low-level programming**, and contributing to the **open-source community**, particularly projects like **OpenBSD** and **GNU/Linux**.
 
